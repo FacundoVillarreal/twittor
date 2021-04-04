@@ -2,7 +2,7 @@
 // Registro del SW
 
 var url = window.location.href;
-var swLocation = '/twittor/';
+var swLocation = '/twittor/sw.js';
 
 
 
